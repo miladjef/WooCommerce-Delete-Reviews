@@ -1,5 +1,4 @@
 <?php
-<?php
   /**
    * Plugin Name: WooCommerce Delete Reviews
    * Description: A plugin to delete all WooCommerce product reviews with a single button and option to remove the button from the control panel.
