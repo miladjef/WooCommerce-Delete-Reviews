@@ -4,9 +4,8 @@
    * Plugin Name: WooCommerce Delete Reviews
    * Description: A plugin to delete all WooCommerce product reviews with a single button and option to remove the button from the control panel.
    * Plugin URI: https:/miladjafarigavzan.ir
-   * Description: Adds a custom button with a unique link to each WooCommerce product page.
    * Version: 1.0
-   * Author: milad jafari gavzan
+   * Author: Milad Jafari Gavzan
    * Author URI: https://miladjafarigavzan.ir
    * License: GPL-2.0+
    */
